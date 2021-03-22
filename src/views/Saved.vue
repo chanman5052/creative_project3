@@ -24,6 +24,7 @@
     
     <h1 v-if="$root.$data.saved_jobs.length === 0"><b>Playa... get up and go SAVE some jobs</b></h1>
   </div>
+  <a class= "github" href="https://github.com/chanman5052/creative_project3">Github</a>
 </div>
 </template>
 <script>
