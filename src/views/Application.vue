@@ -54,6 +54,7 @@
     <button class= "button is-rounded is-danger" @click= "deleteApp()">Delete</button>
     </div>
     </div>
+    <a class= "github" href="https://github.com/chanman5052/creative_project3">Github</a>
   </div>
 </template>
 <script>
