@@ -1,6 +1,6 @@
 <template>
 <div>
-  <img src= "/assets/e720JobLogo.png">
+  <img src= "e720JobLogo.png">
   <div class="card" id="home">
   <div class="card-content">
     <div class="content has-text-centered">
