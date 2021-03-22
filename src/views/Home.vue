@@ -1,6 +1,9 @@
 <template>
 <div>
   <h1><b>Entertainment 720 Job Search</b></h1>
+  <br/>
+  <br/>
+  <br/>
   <div class="card" id="home">
   <div class="card-content">
     <div class="content has-text-centered">
@@ -20,6 +23,7 @@ img {
   width:50%;
   margin-left: 350px;
   text-align: center;
+  margin-bottom: 350px;
 }
 .github {
   margin-top: 300px;
