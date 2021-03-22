@@ -1,6 +1,6 @@
 <template>
 <div>
-  <h1><b>Entertainment 720 Job Search</b></h1>
+  <img src= "e720JobLogo.png">
   <br/>
   <br/>
   <br/>
