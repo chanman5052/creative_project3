@@ -8,6 +8,7 @@
     </div>
   </div>
 </div>
+<a class= "github" href="https://github.com/chanman5052/creative_project3">Github</a>
 </div>
 </template>
 <style>
@@ -18,6 +19,10 @@ img {
 #home{
   width:50%;
   margin-left: 350px;
+  text-align: center;
+}
+.github {
+  margin-top: 300px;
   text-align: center;
 }
 </style>
