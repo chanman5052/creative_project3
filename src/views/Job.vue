@@ -4,6 +4,7 @@
       <h1><b>Job Listings</b></h1>
     </div>
     <JobListing :jobs="jobs" />
+    <a class= "github" href="https://github.com/chanman5052/creative_project3">Github</a>
   </div>
 </template>
 <script>
