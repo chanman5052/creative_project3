@@ -1,6 +1,6 @@
 <template>
 <div>
-  <img src= "e720JobLogo.png">
+  <h1><b>Entertainment 720 Job Search</b></h1>
   <div class="card" id="home">
   <div class="card-content">
     <div class="content has-text-centered">
